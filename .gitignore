@@ -1,0 +1,9 @@
+# Runtime data — never commit
+.tmp/
+__pycache__/
+*.pyc
+*.pyo
+*.db
+
+# Environment
+.env
